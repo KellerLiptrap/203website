@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Keller Liptrap",
+    "section": "",
+    "text": "The first section of the Software Engineering book is talking about how we can think about software engineering and some things that go with it. The authors of the book say that software engineering is not just the act of coding and writing code but it is the act of maintaing code over time. There are three key time and change, scale and growth, trade offs and costs. Then the perspectives of google is discussed. They have three aspect of google engineering which are culture, process, and tools. In further chapters these will be gone into further detail.\n\n\n\nI found this begging section of the book ingresting. Ive always thought of sofware engineering in a more black and white way but in this section the authors provide different ways in which we can think about sofware engineering. I also think that the insite of googles philosiphy of software engineering is useful in creating our own code for our upcoming software development task.\n\n\n\nA key point that will stick with me from this part of the book is that software developement is maintaining code overtime. Keeping this mind set throughtout the semster working on chasten. This mindset may help with the idea of getting it all done at once rather its a task by task software development over time.\n\n\n\n\n\n\nThe first chapter in FB is introducing the world of software testing. This chapter descirbes the importance of testing your coding for software development. Testing your software can help with bugs, the overall quality of the code, and how reliable your software is. Althought testing is a great tool for software developers it has its limitations. These testing dont gurantee your code to be bug free or to work as intended.\n\n\n\nLearning about testing sofware is important. Testing software is key to the code working as intended and being bug free. Learning about test for sofware will ultimatley help use as softare engineers but it is important to keep in mind that developing and running test on our code is not full proof and may not pick up on some errors that we made.\n\n\n\nIn the case of Chasten and our overall projects as a software start up class sofware testing will be a crucial part to our success. Making test cases for our software will be important to ensureing our code is good to ship and will not break once shipped."
+  },
+  {
+    "objectID": "index.html#se1",
+    "href": "index.html#se1",
+    "title": "Keller Liptrap",
+    "section": "",
+    "text": "The first section of the Software Engineering book is talking about how we can think about software engineering and some things that go with it. The authors of the book say that software engineering is not just the act of coding and writing code but it is the act of maintaing code over time. There are three key time and change, scale and growth, trade offs and costs. Then the perspectives of google is discussed. They have three aspect of google engineering which are culture, process, and tools. In further chapters these will be gone into further detail.\n\n\n\nI found this begging section of the book ingresting. Ive always thought of sofware engineering in a more black and white way but in this section the authors provide different ways in which we can think about sofware engineering. I also think that the insite of googles philosiphy of software engineering is useful in creating our own code for our upcoming software development task.\n\n\n\nA key point that will stick with me from this part of the book is that software developement is maintaining code overtime. Keeping this mind set throughtout the semster working on chasten. This mindset may help with the idea of getting it all done at once rather its a task by task software development over time."
+  },
+  {
+    "objectID": "index.html#fb1",
+    "href": "index.html#fb1",
+    "title": "Keller Liptrap",
+    "section": "",
+    "text": "The first chapter in FB is introducing the world of software testing. This chapter descirbes the importance of testing your coding for software development. Testing your software can help with bugs, the overall quality of the code, and how reliable your software is. Althought testing is a great tool for software developers it has its limitations. These testing dont gurantee your code to be bug free or to work as intended.\n\n\n\nLearning about testing sofware is important. Testing software is key to the code working as intended and being bug free. Learning about test for sofware will ultimatley help use as softare engineers but it is important to keep in mind that developing and running test on our code is not full proof and may not pick up on some errors that we made.\n\n\n\nIn the case of Chasten and our overall projects as a software start up class sofware testing will be a crucial part to our success. Making test cases for our software will be important to ensureing our code is good to ship and will not break once shipped."
+  }
+]
